@@ -1,6 +1,6 @@
 # Contributing 💕
 
-Please submit a [pull request](https://help.github.com/articles/about-pull-requests/) if you have any additions or changes. 
+Please submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) if you have any additions or changes. 
 
 **Accepted pull requests will**:
 
