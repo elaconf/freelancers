@@ -16,7 +16,7 @@ CSS animations, SVG, curriculum development, UX/UI, front-end design, style guid
 [Portfolio](http://jonibologna.work/)
 
 ## Preferred Location Details, Timezone
-Remote only ✨
+Remote or downtown Wilmington, Delaware ✨
 
 ## General Availability 
-None at the moment, this is a test as a first contributor.
+None at the moment, this is a test as a first contributor and will be deleted soon. 
