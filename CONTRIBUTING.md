@@ -9,6 +9,6 @@ Please submit a [pull request](https://help.github.com/articles/creating-a-pull-
 3. Follow the [provided template](individual-profiles/example.md) when creating an individual profile page to link to. Save markdown file by last name in the `individual-profiles` folder and link to in the README list   
 4. Follow the Ela [Code of Conduct](http://elaconf.com/code-of-conduct/)
 
-If you would like to be included in this list but prefer to avoid using GitHub [we have a Google Form here](https://docs.google.com/a/elaconf.com/forms/d/1sWJEml5UcOC_w7-MnNhJdw_dQDqTEoJp21PTxoiitog) for accepting submissions.
+👉 If you would like to be included in this list but prefer to avoid using GitHub [we have a Google Form here](https://docs.google.com/a/elaconf.com/forms/d/1sWJEml5UcOC_w7-MnNhJdw_dQDqTEoJp21PTxoiitog) for accepting submissions.
 
-This repo uses markdown syntax. Not super comfortable with markdown just yet? [Here's a handy quick start guide](https://guides.github.com/features/mastering-markdown/).
+👉 This repo uses markdown syntax. Not super comfortable with markdown just yet? [Here's a handy quick start guide](https://guides.github.com/features/mastering-markdown/).
