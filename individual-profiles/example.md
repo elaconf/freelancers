@@ -1,13 +1,14 @@
-# \<Insert Name Here\>
+# Full Name
 
 ## About
 
-![Photo alt text]() <!-- add a link to a photo within the parenthesis! -->
+![Photo alt text]() <!-- add a link to a photo within the parenthesis if you wish! -->
 
-## Specialties/Focus
+## Specialties/Focus/Technologies 
 
 ## Website, Contact Details
 [Site]()<br>
+[Email]()<br>
 [Twitter]()<br>
 
 ## Portfolio, Work Examples 
