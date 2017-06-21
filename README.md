@@ -10,4 +10,5 @@ Last, First Name | Website | Specialties | Region
 ------------ | ------- | ------- | -------
 [Miranda, Alisha](/individual-profiles/miranda.md) | https://alisha-miranda.squarespace.com/ | Client Management, Account Management, Resource Management, Project Planning / Roadmaps, Process Documentation, Content Strategy, Creative / Asset Collection | Philadelphia, Remote
 [Patterson, Emily](/individual-profiles/patterson.md) | http://beemeasure.com/ | Google Analytics, Google Tag Manager, social analytics, Facebook ads, Google AdWords, dashboards | Virginia, Remote
+[Snyder, Lisa](/individual-profiles/snyder.md) | https://www.silverhoopedge.com/ | creating and maintaining sites powered by WordPress | East Coast, Remote
 [Trythall, Joni](/individual-profiles/trythall.md) | http://jonibologna.com/ | Design, UX/UI, CSS animations | Wilmington DE, Remote
