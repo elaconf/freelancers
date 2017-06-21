@@ -8,8 +8,8 @@
 
 ## Website, Contact Details
 [Site]()<br>
-[Email]()<br>
 [Twitter]()<br>
+Email: 
 
 ## Portfolio, Work Examples 
 [Portfolio]()<br>
