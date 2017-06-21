@@ -8,4 +8,5 @@ If you are a member of our community please add yourself to the list! **Contribu
 
 Last, First Name | Website | Specialties | Region
 ------------ | ------- | ------- | -------
+[Patterson, Emily](/individual-profiles/patterson.md) | http://beemeasure.com/ | Google Analytics, Google Tag Manager, social analytics, Facebook ads, Google AdWords, dashboards | Virginia
 [Trythall, Joni](/individual-profiles/trythall.md) | http://jonibologna.com/ | Design, UX/UI, CSS animations | Wilmington DE, Remote
