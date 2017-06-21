@@ -12,9 +12,9 @@ Bee Measure
 Google Analytics, Google Tag Manager, social analytics, Facebook ads, Google AdWords, dashboards
 
 ## Website, Contact Details
-[Site](http://beemeasure.com/)<br>
-[Twitter](https://twitter.com/EmilyLPatterson)<br>
-Email: emily@beemeasure.com<br>
+* [Site](http://beemeasure.com/)<br>
+* [Twitter](https://twitter.com/EmilyLPatterson)<br>
+* Email: emily@beemeasure.com<br>
 
 ## Portfolio, Work Examples 
 [Portfolio]()<br>
