@@ -7,9 +7,9 @@
 ## Specialties/Focus/Technologies 
 
 ## Website, Contact Details
-[Site]()<br>
-[Twitter]()<br>
-Email: 
+* [Site]()<br>
+* [Twitter]()<br>
+* Email: 
 
 ## Portfolio, Work Examples 
 [Portfolio]()<br>
