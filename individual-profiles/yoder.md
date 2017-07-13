@@ -8,7 +8,7 @@ I'm available for part time or full time remote contract work, or full time remo
 ![Lisa Yoder photo](https://pbs.twimg.com/profile_images/855904641741201408/E9ubUGAe_400x400.jpg) <!-- add a link to a photo within the parenthesis if you wish! -->
 
 ## Specialties/Focus/Technologies 
-Front end development, UI development, WordPress and Shopify theme development, 
+Front end development, UI development, WordPress and Shopify theme development
 
 ## Website, Contact Details
 * [Site](http://lisayoder.is)<br>
