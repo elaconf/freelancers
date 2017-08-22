@@ -9,7 +9,7 @@ I’m passionate about problem solving based on human-centered approach & simpli
 UX and product design
 
 ## Website, Contact Details
-* [Site](Minarazavi.com)<br>
+* [Site](http://minarazavi.com/)<br>
 * [Twitter](https://twitter.com/Minirva60)<br>
 * Email: hi@minarazavi.com 
 
