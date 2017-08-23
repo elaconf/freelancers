@@ -16,6 +16,6 @@ Last, First Name | Website | Specialties | Region
 [Piccari, Bri](/individual-profiles/piccari.md) | https://www.bripiccari.me/ | Digital Design, Print Design, Front end Development, WordPress, Shopify & Squarespace development, UX/UI, Icon Systems, Community Training & Workshops | Central PA, Remote
 [Razavi, Mina](/individual-profiles/razavi.md) | http://minarazavi.com/ | UX and product design | Philadelphia PA, Remote
 [Snyder, Lisa](/individual-profiles/snyder.md) | https://www.silverhoopedge.com/ | creating and maintaining sites powered by WordPress | East Coast, Remote
-[Trythall, Joni](/individual-profiles/trythall.md) | http://jonibologna.com/ | Web design, UX/UI, CSS animations, technical writing, curriculum development | Wilmington DE, Remote
+[Trythall, Joni](/individual-profiles/trythall.md) | http://jonibologna.com/ | Web design, UX/UI, marketing, CSS animations, technical writing, curriculum development | Wilmington DE, Remote
 [Yoder, Lisa](/individual-profiles/yoder.md) | http://lisayoder.is | Front End Development | Lancaster, PA, Philadelphia, Remote
 
