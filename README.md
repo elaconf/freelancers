@@ -2,7 +2,9 @@
 
 This is a list of Ela community members that freelance. Our hope is that this list serves as a central location to find qualified women and non-binary individuals to hire or recommend for on-site or remote contract opportunities. 
 
-If you are a member of our community please add yourself to the list! **Contribution details [can be found here](/CONTRIBUTING.md)**. If you are *not* currently a member but would like to be please [join our Slack channel](https://docs.google.com/forms/u/2/d/12siuj4v0kOGv4K_A3gCejg8JHiJoHYUieUw8vJBjTws/edit) and agree to our [Code of Conduct](http://elaconf.com/code-of-conduct/) 🤗 
+If you are a member of our community please add yourself to the list! **Contribution details [can be found here](/CONTRIBUTING.md)**. 
+
+❣️ If you are *not* currently a member but would like to be please [join our Slack channel](https://docs.google.com/forms/u/2/d/12siuj4v0kOGv4K_A3gCejg8JHiJoHYUieUw8vJBjTws/edit) and agree to our [Code of Conduct](http://elaconf.com/code-of-conduct/) 🤗 
 
 ## Freelancer List ✨
 
