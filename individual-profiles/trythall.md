@@ -6,7 +6,7 @@ Hi, I’m Joni. I’m a web designer and writer currently running Ela Conf. I al
 ![Joni Trythall photo](https://pbs.twimg.com/profile_images/772522912326623232/HX5oUn92_400x400.jpg) <!-- add a link to a photo within the parenthesis! -->
 
 ## Specialties/Focus
-CSS animations, SVG, curriculum development, marketing design, UX/UI, front-end design, style guides, technical writing, community organizing 
+CSS animations, SVG, UX/UI, front-end design 
 
 ## Website, Contact Details
 [Site](http://jonibologna.com/)<br>
