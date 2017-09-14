@@ -7,6 +7,9 @@ Hi, I’m Joni. I’m a web designer and teacher currently running Ela Conf. I a
 
 ## Specialties/Focus
 * Front-end design
+* Marketing design 
+* Branding 
+* Content development   
 * CSS animations
 * SVG
 * UX/UI 
@@ -25,4 +28,4 @@ Hi, I’m Joni. I’m a web designer and teacher currently running Ela Conf. I a
 * [A Field Guide to Flexbox](http://www.flexboxfieldguide.com/)
 
 ## Preferred Location Details, Timezone
-Remote or downtown Wilmington, Delaware ✨
+Part-time remote only ✨
