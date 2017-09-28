@@ -14,5 +14,8 @@ Front end development with expertise in WordPress
 * [Twitter](https://twitter.com/metalandcoffee_)<br>
 * Email: eboniebutler@gmail.com
 
+## Portfolio, Work Examples 
+* [Responsive Music Blog Front Page](https://metalandcoffee.github.io/)
+
 ## General Availability 🎭
 Part-time remote only.
