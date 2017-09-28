@@ -1,25 +1,21 @@
-# Lisa Yoder
+# Ebonie Butler
 
-## About
-Hello! I'm an independent front-end developer, currently working with custom software consultancies, design and marketing agencies, and small businesses. I contribute features and bug fixes to projects on a variety of platforms, including WordPress, Middleman, and others. I also build and maintain custom WordPress themes. I use HTML, CSS, SCSS, JavaScript, jQuery, ReactJS, PHP,  WordPress, Middleman, Gulp, git, and other technologies in my contract work and side projects. 
+## About ✨
+Hiya! My name is Ebonie and I'm a full-time WordPress developer at Yikes Inc. But I also do part-time freelance work, assisting clients and web agencies with their web development needs.
 
-I'm available for part time or full time remote contract work, or full time remote positions.
 
-![Lisa Yoder photo](https://pbs.twimg.com/profile_images/855904641741201408/E9ubUGAe_400x400.jpg) <!-- add a link to a photo within the parenthesis if you wish! -->
+![Ebonie Butler photo](https://www.ebonie.me/wp-content/uploads/2017/09/me-300x300.jpg) <!-- add a link to a photo within the parenthesis if you wish! -->
 
-## Specialties/Focus/Technologies 
-Front end development, UI development, WordPress and Shopify theme development
+## Specialties/Focus/Technologies 🍎
+Front end development with expertise in WordPress
 
-## Website, Contact Details
-* [Site](http://lisayoder.is)<br>
-* [Twitter](https://twitter.com/_lisli)<br>
-* Email: lisa.alane.yoder@gmail.com
+## Website, Contact Details 🖥
+* [Site](https://www.ebonie.me)<br>
+* [Twitter](https://twitter.com/metalandcoffee_)<br>
+* Email: eboniebutler@gmail.com
 
-## Portfolio, Work Examples 
-[Portfolio](http://lisayoder.is)<br>
+## Preferred Location Details, Timezone 🌊
+Remote, located on the U.S. East Coast but open and willing to working across timezones
 
-## Preferred Location Details, Timezone
-Remote, located on the U.S. East Coast but open and willing to working across timezomes
-
-## General Availability 
-Remote, part time, or full time. Lead time for contract projects varies. Get in touch for more info!
+## General Availability 🎭
+Part-time remote only.
