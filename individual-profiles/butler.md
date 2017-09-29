@@ -7,7 +7,7 @@ Hiya! I'm Ebonie from Philadelphia and I'm a full-time WordPress developer at Yi
 ![Ebonie Butler photo](https://www.ebonie.me/wp-content/uploads/2017/09/me-300x300.jpg) <!-- add a link to a photo within the parenthesis if you wish! -->
 
 ## Specialties/Focus/Technologies 🍎
-Front end development with expertise in WordPress
+Front end development with expertise in WordPress & Drupal
 
 ## Website, Contact Details 🖥
 * [Site](https://www.ebonie.me)<br>
@@ -15,7 +15,7 @@ Front end development with expertise in WordPress
 * Email: eboniebutler@gmail.com
 
 ## Portfolio, Work Examples 
-* [Responsive Music Blog Front Page](https://metalandcoffee.github.io/)
+* [Music Blog Front Page on Bootstrap Framework](https://metalandcoffee.github.io/)
 
 ## General Availability 🎭
 Part-time remote only.
